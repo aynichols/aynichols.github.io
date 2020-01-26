@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ayda M. Nichols | wife, mother, humanitarian</title>
-    <link>https://aydanichols.com/</link>
-    <description>Recent content on Ayda M. Nichols | wife, mother, humanitarian</description>
+    <title>Writings on Ayda M. Nichols | wife, mother, humanitarian</title>
+    <link>https://aydanichols.com/writings/</link>
+    <description>Recent content in Writings on Ayda M. Nichols | wife, mother, humanitarian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate>
     
-	<atom:link href="https://aydanichols.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aydanichols.com/writings/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About Ayda</title>
-      <link>https://aydanichols.com/about/</link>
-      <pubDate>Tue, 13 Feb 2018 12:21:57 -0500</pubDate>
-      
-      <guid>https://aydanichols.com/about/</guid>
-      <description>Ayda M. Nichols, wife, mother, and humanitarian died on Friday, September 20, 2019 at a hospital in Muncie, Indiana. She was 42.
-The cause was complications of metastatic cancer.
-Ayda was born in Bucaramanga, Colombia on July 31, 1977, the first of two children. Her father, Jaime Vasquez, worked as a farmer, and her mother, Myriam Blanco, worked as a buyer for Cerrejon Coal. Ayda graduated from Universidad Autónoma de Bucaramanga in 2001 with a bachelor&#39;s degree in marketing management.</description>
-    </item>
     
     <item>
       <title>Español</title>
@@ -68,15 +57,6 @@ Ayda was born in Bucaramanga, Colombia on July 31, 1977, the first of two childr
     </item>
     
     <item>
-      <title>Photos</title>
-      <link>https://aydanichols.com/photos/</link>
-      <pubDate>Tue, 13 Feb 2018 12:21:57 -0500</pubDate>
-      
-      <guid>https://aydanichols.com/photos/</guid>
-      <description>Some personal photos, eventually, maybe &amp;hellip;</description>
-    </item>
-    
-    <item>
       <title>Posts</title>
       <link>https://aydanichols.com/writings/posts/</link>
       <pubDate>Tue, 13 Feb 2018 12:21:57 -0500</pubDate>
@@ -92,24 +72,6 @@ Ayda was born in Bucaramanga, Colombia on July 31, 1977, the first of two childr
       
       <guid>https://aydanichols.com/writings/scotts-eulogy/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Timeline</title>
-      <link>https://aydanichols.com/medical/timeline/</link>
-      <pubDate>Tue, 13 Feb 2018 12:21:57 -0500</pubDate>
-      
-      <guid>https://aydanichols.com/medical/timeline/</guid>
-      <description>timeline coming, eventually, maybe &amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Treatment</title>
-      <link>https://aydanichols.com/medical/treatment/</link>
-      <pubDate>Tue, 13 Feb 2018 12:21:57 -0500</pubDate>
-      
-      <guid>https://aydanichols.com/medical/treatment/</guid>
-      <description>Treatment coming, eventually, maybe &amp;hellip;</description>
     </item>
     
     <item>
